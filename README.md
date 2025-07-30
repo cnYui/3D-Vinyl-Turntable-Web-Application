@@ -1,5 +1,7 @@
 # 🎵 3D 黑胶唱片机 Web 应用
 
+![项目预览](https://github.com/cnYui/3D-Vinyl-Turntable-Web-Application/blob/main/assets/preview.gif?raw=true)
+
 这是一个使用 React、Three.js 和 TypeScript 构建的交互式 3D 黑胶唱片机网页应用。用户可以浏览一个包含44张唱片的虚拟唱片柜，选择任何一张唱片放到唱片机上播放，并享受沉浸式的视觉和听觉体验。
 
 ## ✨ 主要功能
